@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
+body {
+    font-family: 'Caveat Brush', cursive;   
+    margin: 50px 23%;
+    background: rgba(159, 197, 182, 255);
+}
+
+.backround {
+    background-image: url(..//img/woddPlank.jpg);
+    width: 100%;
+    height: 700px;
+}
+
+.logo {
+    width: 100%;
+    height: 200px;
+    transform: scaleX(-1);
+    position: relative;
+    top: 30%;
+
+}
+
+span {
+    color: #d4276d;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.floatright {
+    float: right;
+}
+
+.floatleft {
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+
+li,
+a,
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none; 
+    text-decoration: none;
+    color: black;
+    letter-spacing: 2px;
+    word-spacing: 40px;
+    display: inline-block;
+    margin: 5px 0 0 0;
+}
+
+ul {
+    margin: 20px 30px;
+
+}
+
+.header {
+    display: flex;
+}
+
+.backroundmain {
+    background-image: url(..//img/pattern.jpg);
+    width: 100%;
+    height: 100%;
+}
+
+h2 {
+    margin: 0;
+}
+
+.titre {
+    margin: 10px 50px;
+    display: inline-block;
+    font-size: 50px;
+}
+
+.eggs {
+    width: 100%;
+}
+
+.moule{
+    width: 60%;
+}
+
+.soap {
+    width: 63%;
+}
+
+.asperge {
+    width: 60%;
+}
+
+.G1,
+.G2 {
+    mix-blend-mode: multiply;
+    width: 20%;
+}
+
+.aspergep {
+    width: 25%;
+    position: relative;
+    top: 230px;
+    left: 7%;
+}
+
+.moulep {
+    width: 25%;
+    position: relative;
+    right: 330PX;
+    top: 290px;
+}
+.sloap {
+    width: 19%;
+}
+
+.backroundfooter {
+    background-image: url(..//img/pattern.jpg);
+    width: 100%;
+    height: 15rem;
+}
+
+.i {
+    color: #d4276d;
+    margin-right: 70px;
+}
+
+i {
+    width: 20%;
+}

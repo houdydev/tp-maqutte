@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    color: white;
+    padding: 10% 0% 0% 0%;
+    text-align: center;
+}
+h1 {
+    border-bottom: 3px solid gray;
+}
+h2,
+h3 {
+    font-size: 2.5rem;
+    border-radius: 5px;
+}
+section {
+ float: left;
+ width: 38%;
+ padding: 1% 5%;
+}
+h2 {
+    background-color: #E1CDB5;
+    background-color: #235560;
+}
+
+h3 {
+    background-color: #235560 !important;
+}
+
+
+
+
+#h3.h3 {
+    background-color: #700548;
+}
+
+
+#h3 {
+    background-color: #e2adf2;
+}
+.h3.txt.big {
+    background-color: #F0803C;
+}

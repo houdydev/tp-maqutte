@@ -1,0 +1,17 @@
+td {
+    border: solid 2px #6495ED;
+    border-collapse: collapse;
+    height: 30px;
+    width: 400px;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    border: solid 4px #568BEB;
+}
+
+.backround {
+    background-color: #EFF6FF;
+}
+

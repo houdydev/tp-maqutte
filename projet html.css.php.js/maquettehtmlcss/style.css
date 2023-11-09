@@ -1,0 +1,26 @@
+body {
+
+    display: inline-block;
+    margin: 0;
+}
+.rectanglear {
+    position: absolute;
+    left: 450px;
+    top: 0px;
+    width: 1050px;
+    height: 950px;
+    background-color: beige;
+    
+}
+#header {
+    position: absolute;
+    top: 5px;
+    left: 450px;
+}
+.rectangle1 {
+    position: absolute;
+    height: 200px;
+    width: 60px;
+    left: 450px;
+    background-color: aqua;
+}

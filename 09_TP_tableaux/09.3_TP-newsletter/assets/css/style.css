@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 33%;
+}
+
+.floatleft {
+    float: left;
+}
+
+.floatright {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+body {
+    text-align: center;
+}
+
+.new {
+    margin: 50px 0 30px 0;
+}
+
+.lien {
+    margin-top: 100px;
+}
+
+.margin {
+    margin-top: 50px;
+}

@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {  
+    width: 50%;
+    margin:auto;
+}
+
+.floatleft {
+    float: left;
+}
+
+.floatright {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.yellow {
+    color:goldenrod;
+}
+
+.imgpr {
+    margin-left: 300px;
+}
+
+
+.backroundblue {
+background-color: blue;
+}
+
+.center {
+    text-align: center;
+    font-size: 20px;
+}
+
+h2 {
+    margin: 0;
+    text-align: center;
+}
+
+.size {
+    font-size: 25px;
+}
