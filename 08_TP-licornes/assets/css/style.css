@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 25%;
+    background: url(..//img/background.png);
+}
+
+.floatleft {
+    float: left;
+}
+
+.floatright {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.hero {
+    width: 200px;
+}
+
+figure {
+    margin: 0 0 0 0;
+}
+
+.lfhero {
+    margin-left: 30px;
+}
+
+.rghero {
+    margin-right: 30px;
+}
+
+.backroundblanc {
+    background-color: white;
+}
