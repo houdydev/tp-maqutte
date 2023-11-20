@@ -41,4 +41,23 @@ figure {
 
 .backroundblanc {
     background-color: white;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+iframe {
+    width: 500px;
+    padding: 20px 50px;
+}
+
+.titre {
+    text-align: center;
+    background: url(..//img/rainbow.png) no-repeat;
+    width: 600px;
+    height: 200px;
+    margin: 0 0 0 100px;
+}
+
+h2 {
+    margin: 0 0 20px 10px;
 }
